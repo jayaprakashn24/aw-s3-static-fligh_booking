@@ -22,6 +22,4 @@ If you're looking for an easy way to host a static website—whether it's an HTM
 
 ---
 
-Check out the full guide to S3 static website hosting and get your site live in minutes! ✨
 
-Let me know if you'd like me to help with your setup. 😊
